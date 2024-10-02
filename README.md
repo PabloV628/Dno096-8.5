@@ -1,2 +1,27 @@
-# Dno096-8.5
 Imágenes 2da evaluación
+![Studypet300](https://github.com/user-attachments/assets/64e6a031-c0ff-41b1-be52-0b225db4f726)
+![Patiovivo3](https://github.com/user-attachments/assets/2cd4b34f-64b2-4dd4-9a74-b6517802f003)
+![ismael3](https://github.com/user-attachments/assets/58a79ae6-96cb-478d-a8a0-7d76bcdd5469)
+![infografia3](https://github.com/user-attachments/assets/287a9efa-1bea-4a14-9823-6242c56d0da0)
+![escritora300](https://github.com/user-attachments/assets/fd7e941d-0a88-4cf8-af0a-9806fa9b7ad8)
+![encuentro3](https://github.com/user-attachments/assets/00eaf75a-555d-4e4f-90b6-3e7fe62784fd)
+![dialifit3](https://github.com/user-attachments/assets/497908c5-65f0-4b56-92f5-9ed5ee9bf3cf)
+![buinzoo300](https://github.com/user-attachments/assets/4ee85d36-26a7-42b9-b37a-4712826dd285)
+![bugamb3](https://github.com/user-attachments/assets/c8622f34-1299-45fc-8c75-764746d293aa)
+![astrotegic300](https://github.com/user-attachments/assets/27193394-648d-4608-a914-56584397634c)
+![2d3](https://github.com/user-attachments/assets/8ad9e7d3-5076-423e-9f5f-8eca56a2619c)
+![EEAAO3](https://github.com/user-attachments/assets/efac9191-6292-4041-b21a-7dc868032439)
+
+![collagestudy](https://github.com/user-attachments/assets/e7b1a2f1-44cb-4dc1-ae33-7e99eafb02e8)
+![collagebugamb](https://github.com/user-attachments/assets/e74fef40-f703-4960-9984-a3d3ea1df00a)
+![buinzoo](https://github.com/user-attachments/assets/d59918b2-3dc9-435f-9d95-679d00f5016f)
+![astrotegik](https://github.com/user-attachments/assets/60edcac7-a77d-44fd-9157-60fa7bbdcde4)
+![Vergara-Pablo-examen2D_-932084466 1@2x](https://github.com/user-attachments/assets/71397991-3e34-40d0-8f88-964020d1251b)
+![Vergara_Ismael 1](https://github.com/user-attachments/assets/5b4bd0ad-8030-46ff-8dcd-9ae1869557c4)
+![setposters](https://github.com/user-attachments/assets/46456ecd-a0ad-49cf-925c-4b4942b812a9)
+![infofeminista](https://github.com/user-attachments/assets/e453ee22-dfab-4b1d-9e84-35d379b702b4)
+![flujoappdialifit](https://github.com/user-attachments/assets/547b1fd4-dc4f-4d7a-9a49-99c8719f4839)
+![encuentro](https://github.com/user-attachments/assets/00131495-f86d-43c2-b099-6e90dab3a46a)
+![encargoeditorial A3 Pablo sin marcas-1~3 1](https://github.com/user-attachments/assets/596936df-6dbd-4038-a1da-ea59f6d3bf6a)
+![EEAAO](https://github.com/user-attachments/assets/d72bb968-aaac-4fc6-ada3-aef189d68f43)
+
