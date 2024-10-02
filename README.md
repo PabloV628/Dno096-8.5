@@ -1,5 +1,5 @@
 Imágenes 2da evaluación
-![Studypet3nuevo](https://github.com/user-attachments/assets/40cc33e6-f2f2-4790-b79f-4c4fd7ce94c4)
+![Proyecto nuevo (3)](https://github.com/user-attachments/assets/b3057c69-b4f2-4d5c-b66b-cf0bd318372f)
 ![pationuevo](https://github.com/user-attachments/assets/852b8fd1-f863-4eb2-a16b-43a277750487)
 ![ismael3](https://github.com/user-attachments/assets/58a79ae6-96cb-478d-a8a0-7d76bcdd5469)
 ![datosnuevo](https://github.com/user-attachments/assets/49163d05-4919-4c1a-9e9c-13c9cae38967)
@@ -7,7 +7,7 @@ Imágenes 2da evaluación
 ![encuentro3](https://github.com/user-attachments/assets/00eaf75a-555d-4e4f-90b6-3e7fe62784fd)
 ![dialifit3 0](https://github.com/user-attachments/assets/4eac00cc-2790-4211-acd3-7fb4973e8a67)
 ![buinzoo2 0](https://github.com/user-attachments/assets/602a92a3-3b64-4324-9103-ad568024e727)
-![bugam2nuevo](https://github.com/user-attachments/assets/d32abd0f-fe23-43f6-b00d-39869731623d)
+![Proyecto nuevo (4)](https://github.com/user-attachments/assets/deb67fd1-f265-4d01-ad56-d400f9cf8b94)
 ![astrotegic300](https://github.com/user-attachments/assets/27193394-648d-4608-a914-56584397634c)
 ![2d3](https://github.com/user-attachments/assets/8ad9e7d3-5076-423e-9f5f-8eca56a2619c)
 ![eeaaonuevo](https://github.com/user-attachments/assets/d48ebc6a-6db7-4d04-8cf8-ce09dd7b439a)
