@@ -1,16 +1,16 @@
 Imágenes 2da evaluación
-![Studypet300](https://github.com/user-attachments/assets/64e6a031-c0ff-41b1-be52-0b225db4f726)
-![Patiovivo3](https://github.com/user-attachments/assets/2cd4b34f-64b2-4dd4-9a74-b6517802f003)
+![Studypet3nuevo](https://github.com/user-attachments/assets/40cc33e6-f2f2-4790-b79f-4c4fd7ce94c4)
+![pationuevo](https://github.com/user-attachments/assets/852b8fd1-f863-4eb2-a16b-43a277750487)
 ![ismael3](https://github.com/user-attachments/assets/58a79ae6-96cb-478d-a8a0-7d76bcdd5469)
-![infografia3](https://github.com/user-attachments/assets/287a9efa-1bea-4a14-9823-6242c56d0da0)
+![datosnuevo](https://github.com/user-attachments/assets/49163d05-4919-4c1a-9e9c-13c9cae38967)
 ![escritora300](https://github.com/user-attachments/assets/fd7e941d-0a88-4cf8-af0a-9806fa9b7ad8)
 ![encuentro3](https://github.com/user-attachments/assets/00eaf75a-555d-4e4f-90b6-3e7fe62784fd)
-![dialifit3](https://github.com/user-attachments/assets/497908c5-65f0-4b56-92f5-9ed5ee9bf3cf)
+![dialifit3nuevo](https://github.com/user-attachments/assets/122af739-1856-48a9-ae6c-ecd2be35f707)
 ![buinzoo300](https://github.com/user-attachments/assets/4ee85d36-26a7-42b9-b37a-4712826dd285)
-![bugamb3](https://github.com/user-attachments/assets/c8622f34-1299-45fc-8c75-764746d293aa)
+![bugamnuevo](https://github.com/user-attachments/assets/05c03dd4-9bbd-4006-8fb1-a0b519fd4db3)
 ![astrotegic300](https://github.com/user-attachments/assets/27193394-648d-4608-a914-56584397634c)
 ![2d3](https://github.com/user-attachments/assets/8ad9e7d3-5076-423e-9f5f-8eca56a2619c)
-![EEAAO3](https://github.com/user-attachments/assets/f033b00a-590c-4a2c-9e7a-0772888677c7)
+![eeaaonuevo](https://github.com/user-attachments/assets/d48ebc6a-6db7-4d04-8cf8-ce09dd7b439a)
 
 
 ![collagestudy](https://github.com/user-attachments/assets/e7b1a2f1-44cb-4dc1-ae33-7e99eafb02e8)
@@ -25,4 +25,8 @@ Imágenes 2da evaluación
 ![encuentro](https://github.com/user-attachments/assets/00131495-f86d-43c2-b099-6e90dab3a46a)
 ![encargoeditorial A3 Pablo sin marcas-1~3 1](https://github.com/user-attachments/assets/596936df-6dbd-4038-a1da-ea59f6d3bf6a)
 ![EEAAO](https://github.com/user-attachments/assets/d72bb968-aaac-4fc6-ada3-aef189d68f43)
+
+![Proyecto nuevo (1)](https://github.com/user-attachments/assets/06652a60-ff26-4c7b-a7d6-bbea8607a8a3)
+
+
 
