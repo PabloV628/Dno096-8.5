@@ -2,7 +2,7 @@ Imágenes 2da evaluación
 ![Proyecto nuevo (3)](https://github.com/user-attachments/assets/b3057c69-b4f2-4d5c-b66b-cf0bd318372f)
 ![pationuevo](https://github.com/user-attachments/assets/852b8fd1-f863-4eb2-a16b-43a277750487)
 ![ismael3](https://github.com/user-attachments/assets/58a79ae6-96cb-478d-a8a0-7d76bcdd5469)
-![datosnuevo](https://github.com/user-attachments/assets/49163d05-4919-4c1a-9e9c-13c9cae38967)
+![feminismohd](https://github.com/user-attachments/assets/f23f575d-8b17-4a30-90ae-24bf7d3da079)
 ![escritora2 0](https://github.com/user-attachments/assets/5b76d894-3636-4c60-97e4-d401ed6c261a)
 ![encuentro3](https://github.com/user-attachments/assets/00eaf75a-555d-4e4f-90b6-3e7fe62784fd)
 ![dialifit3 0](https://github.com/user-attachments/assets/4eac00cc-2790-4211-acd3-7fb4973e8a67)
