@@ -10,7 +10,8 @@ Imágenes 2da evaluación
 ![bugamb3](https://github.com/user-attachments/assets/c8622f34-1299-45fc-8c75-764746d293aa)
 ![astrotegic300](https://github.com/user-attachments/assets/27193394-648d-4608-a914-56584397634c)
 ![2d3](https://github.com/user-attachments/assets/8ad9e7d3-5076-423e-9f5f-8eca56a2619c)
-![EEAAO3](https://github.com/user-attachments/assets/efac9191-6292-4041-b21a-7dc868032439)
+![EEAAO3](https://github.com/user-attachments/assets/f033b00a-590c-4a2c-9e7a-0772888677c7)
+
 
 ![collagestudy](https://github.com/user-attachments/assets/e7b1a2f1-44cb-4dc1-ae33-7e99eafb02e8)
 ![collagebugamb](https://github.com/user-attachments/assets/e74fef40-f703-4960-9984-a3d3ea1df00a)
