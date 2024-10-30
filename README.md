@@ -31,6 +31,20 @@ Imágenes 2da evaluación
 ![studypet](https://github.com/user-attachments/assets/503f8194-149e-4535-9f04-b61de4be2816)
 ![irregular](https://github.com/user-attachments/assets/00338e6c-71d6-483e-938d-121abf0c3c4b)
 
+![themummy](https://github.com/user-attachments/assets/8be8fc1c-76a4-4d9d-904e-a75d1a53b89f)
+![superbad](https://github.com/user-attachments/assets/d9396d94-5693-461c-a3a6-0bb6553d6c13)
+![stardust](https://github.com/user-attachments/assets/7703e0a1-a5f8-42f7-a1fc-270dae093032)
+![shrek2](https://github.com/user-attachments/assets/4c7e674b-10c9-4e70-94a4-9ab25481e919)
+![paulmovie](https://github.com/user-attachments/assets/7773ba87-e8af-4f04-80f8-ec2f120b9786)
+![monsterhouse](https://github.com/user-attachments/assets/24652bd7-3413-49f7-a182-05c87849370f)
+![encantadapeli](https://github.com/user-attachments/assets/86313856-ecae-4b47-8e92-00ab6d5aebb2)
+![eeaaomovie](https://github.com/user-attachments/assets/dee0b05a-837e-4a22-b98f-acc680771683)
+![coraline](https://github.com/user-attachments/assets/ae54eac2-b552-4497-935b-752bc1bd4bef)
+![chihiromovie](https://github.com/user-attachments/assets/d9fa2925-7251-4804-b148-c10a3902ab1b)
+![castillovaga](https://github.com/user-attachments/assets/5a3018d3-286a-4342-9e98-51865de50a78)
+![cabininthewoods](https://github.com/user-attachments/assets/4d90093d-beb2-4de0-b2ba-a270af59c75f)
+
+
 
 
 
