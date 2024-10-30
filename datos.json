@@ -3,8 +3,8 @@
         "nombre": "Coraline",
         "descripcion": "Una niña descubre una puerta secreta en su nueva casa y entra a una realidad alterna que la refleja fielmente de muchas formas.",
         "fecha": "2009",
-        "signo": "branding",
-        "foto": "https://github.com/user-attachments/assets/2f638572-37b6-4ebd-89ee-b1eb06b3530e",
+        "signo": "terror",
+        "foto": "https://github.com/user-attachments/assets/ae54eac2-b552-4497-935b-752bc1bd4bef",
         "fotos":["coraline-1.jpg","coraline-2.jpg","coraline-3.jpg"],
         "github": "https://github.com/pablov628"
     },
@@ -12,8 +12,8 @@
         "nombre": "EEAAO",
         "descripcion": "Una inmigrante china de mediana edad se ve envuelta en una loca aventura, donde ella sola puede salvar el mundo explorando otros universos que se conectan con sus vidas pasadas.",
         "fecha": "2022",
-        "signo": "ilustracion",
-        "foto": "https://github.com/user-attachments/assets/9be1c960-7219-43f3-9adf-416e5f752c2f",
+        "signo": "accion",
+        "foto": "https://github.com/user-attachments/assets/dee0b05a-837e-4a22-b98f-acc680771683",
         "fotos":["ee-1.jpg","ee-2.jpg","ee-3.jpg"],
         "github": "https://github.com/pablov628"
     },
@@ -21,8 +21,8 @@
         "nombre": "Encantada",
         "descripcion": "Una joven doncella de una tierra llamada Andalasia, que está preparada para casarse, es enviada a la ciudad de Nueva York por una reina malvada, donde se enamora de un abogado.",
         "fecha": "2007",
-        "signo": "editorial",
-        "foto": "https://github.com/user-attachments/assets/3ad1378f-7434-4c74-8447-ab2d94874b72",
+        "signo": "romance",
+        "foto": "https://github.com/user-attachments/assets/86313856-ecae-4b47-8e92-00ab6d5aebb2",
         "fotos":["enca-1.jpg","enca-2.jpg","enca-3.jpg"],
         "github": "https://github.com/pablov628"
     },
@@ -30,10 +30,82 @@
         "nombre": "Stardust",
         "descripcion": "En un pueblo al borde de un mundo mágico, el joven Tristán promete a una chica que le traerá una estrella fugaz para ganarse su amor.",
         "fecha": "2007",
-        "signo": "ux",
-        "foto": "https://github.com/user-attachments/assets/dbaeff3d-3132-4e20-a909-5480956bf92f",
+        "signo": "fantasia",
+        "foto": "https://github.com/user-attachments/assets/7703e0a1-a5f8-42f7-a1fc-270dae093032",
         "fotos":["star-1.jpg","star-2.jpg","star-3.jpg"],
         "github": "https://github.com/pablov628"
     },
+   {
+        "nombre": "Monster House",
+        "descripcion": "Tres adolescentes descubren que la casa de su vecino es realmente un monstruo viviente, que respira y da miedo.",
+        "fecha": "2006",
+        "signo": "terror",
+        "foto": "https://github.com/user-attachments/assets/24652bd7-3413-49f7-a182-05c87849370f",
+        "fotos":["monster-1.jpg","monster-2.jpg","monster-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+    {
+        "nombre": "El viaje de chihiro",
+        "descripcion": "Durante el traslado de su familia a los suburbios, una niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
+        "fecha": "2001",
+        "signo": "fantasia",
+        "foto": "https://github.com/user-attachments/assets/d9fa2925-7251-4804-b148-c10a3902ab1b",
+        "fotos":["chihiro-1.jpg","chihiro-2.jpg","chihiro-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+    {
+        "nombre": "El increible castillo vagabundo",
+        "descripcion": "Una joven sin confianza en sí misma es maldita con un cuerpo envejecido por una bruja odiosa. Su única oportunidad de romper el hechizo es un joven brujo en un castillo ambulante.",
+        "fecha": "2001",
+        "signo": "fantasia",
+        "foto": "https://github.com/user-attachments/assets/5a3018d3-286a-4342-9e98-51865de50a78",
+        "fotos":["castillo-1.jpg","castillo-2.jpg","castillo-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+    {
+        "nombre": "La momia",
+        "descripcion": "En una excavación arqueológica en la antigua ciudad de Hamunaptra, un estadounidense despierta accidentalmente a una momia que comienza a causar estragos mientras busca la reencarnación de su amor perdido.",
+        "fecha": "1999",
+        "signo": "accion",
+        "foto": "https://github.com/user-attachments/assets/8be8fc1c-76a4-4d9d-904e-a75d1a53b89f",
+        "fotos":["momia-1.jpg","momia-2.jpg","momia-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+        {
+        "nombre": "Paul",
+        "descripcion": "Dos frikis ingleses de los cómics, que viajan por Estados Unidos, se encuentran con un alienígena a las afueras del Área 51.",
+        "fecha": "2011",
+        "signo": "comedia",
+        "foto": "https://github.com/user-attachments/assets/7773ba87-e8af-4f04-80f8-ec2f120b9786",
+        "fotos":["paul-1.jpg","paul-2.jpg","paul-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+        {
+        "nombre": "Shrek 2",
+        "descripcion": "aaa",
+        "fecha": "2001",
+        "signo": "comedia",
+        "foto": "https://github.com/user-attachments/assets/4c7e674b-10c9-4e70-94a4-9ab25481e919",
+        "fotos":["shrek-1.jpg","shrek-2.jpg","shrek-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+        {
+        "nombre": "Supercool",
+        "descripcion": "Dos estudiantes de secundaria codependientes se ven obligados a lidiar con la ansiedad de su separación cuando su plan de organizar una fiesta empapada de alcohol fracasa.",
+        "fecha": "2007",
+        "signo": "comedia",
+        "foto": "https://github.com/user-attachments/assets/d9396d94-5693-461c-a3a6-0bb6553d6c13",
+        "fotos":["super-1.jpg","super-2.jpg","super-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },    
 
+    {
+        "nombre": "La cabaña del terror",
+        "descripcion": "Cinco amigos se van de escapada a una remota cabaña en el bosque donde descubren más de lo que hubiesen querido.",
+        "fecha": "2011",
+        "signo": "terror",
+        "foto": "https://github.com/user-attachments/assets/4d90093d-beb2-4de0-b2ba-a270af59c75f",
+        "fotos":["cabaña-1.jpg","cabaña-2.jpg","cabaña-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
 ]
