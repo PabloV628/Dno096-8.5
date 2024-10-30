@@ -3,7 +3,7 @@
         "nombre": "Coraline",
         "descripcion": "Una niña descubre una puerta secreta en su nueva casa y entra a una realidad alterna que la refleja fielmente de muchas formas.",
         "fecha": "2009",
-        "signo": "terror",
+        "signo": "branding",
         "foto": "https://github.com/user-attachments/assets/2f638572-37b6-4ebd-89ee-b1eb06b3530e",
         "fotos":["coraline-1.jpg","coraline-2.jpg","coraline-3.jpg"],
         "github": "https://github.com/pablov628"
@@ -12,7 +12,7 @@
         "nombre": "EEAAO",
         "descripcion": "Una inmigrante china de mediana edad se ve envuelta en una loca aventura, donde ella sola puede salvar el mundo explorando otros universos que se conectan con sus vidas pasadas.",
         "fecha": "2022",
-        "signo": "accion",
+        "signo": "ilustracion",
         "foto": "https://github.com/user-attachments/assets/9be1c960-7219-43f3-9adf-416e5f752c2f",
         "fotos":["ee-1.jpg","ee-2.jpg","ee-3.jpg"],
         "github": "https://github.com/pablov628"
@@ -21,7 +21,7 @@
         "nombre": "Encantada",
         "descripcion": "Una joven doncella de una tierra llamada Andalasia, que está preparada para casarse, es enviada a la ciudad de Nueva York por una reina malvada, donde se enamora de un abogado.",
         "fecha": "2007",
-        "signo": "romance",
+        "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/3ad1378f-7434-4c74-8447-ab2d94874b72",
         "fotos":["enca-1.jpg","enca-2.jpg","enca-3.jpg"],
         "github": "https://github.com/pablov628"
@@ -30,10 +30,10 @@
         "nombre": "Stardust",
         "descripcion": "En un pueblo al borde de un mundo mágico, el joven Tristán promete a una chica que le traerá una estrella fugaz para ganarse su amor.",
         "fecha": "2007",
-        "signo": "fantasia",
+        "signo": "ux",
         "foto": "https://github.com/user-attachments/assets/dbaeff3d-3132-4e20-a909-5480956bf92f",
         "fotos":["star-1.jpg","star-2.jpg","star-3.jpg"],
         "github": "https://github.com/pablov628"
-    }
+    },
 
 ]
