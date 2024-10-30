@@ -28,5 +28,11 @@ Imágenes 2da evaluación
 
 ![Proyecto nuevo (1)](https://github.com/user-attachments/assets/06652a60-ff26-4c7b-a7d6-bbea8607a8a3)
 
+![studypet](https://github.com/user-attachments/assets/503f8194-149e-4535-9f04-b61de4be2816)
+![irregular](https://github.com/user-attachments/assets/00338e6c-71d6-483e-938d-121abf0c3c4b)
+
+
+
+
 
 
